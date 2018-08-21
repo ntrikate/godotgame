@@ -9,6 +9,7 @@ var template = [
 		{
 		"prompt" : ["a number","things","a feeling", "a verb", "a description", "a thing"],
 		"story" : ("Once upon a time there were %s %s. They were %s so they %s %s %s.")
+		"story" : ("Once upon a time there were %s %s. They were so %s, they %s %s %s.")
 		}
 		]
 var current_story
